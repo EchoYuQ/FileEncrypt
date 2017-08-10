@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -13,23 +12,54 @@
         android:id="@+id/encrypt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="加密"/>
+        android:text="加密" />
+
     <Button
         android:id="@+id/rename"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="重命名文件"/>
+        android:text="重命名文件" />
 
     <Button
         android:id="@+id/decrypt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="解密"/>
+        android:text="解密" />
 
     <Button
         android:id="@+id/recover_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="还原文件名"/>
+        android:text="还原文件名" />
+
+    <Button
+        android:id="@+id/hide_file"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="隐藏文件" />
+
+    <Button
+        android:id="@+id/show_file"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="显示文件" />
+
+    <Button
+        android:id="@+id/hide_directory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="隐藏文件夹" />
+
+    <Button
+        android:id="@+id/show_directory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="显示文件夹" />
+
+    <Button
+        android:id="@+id/create_file"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="创建文件" />
 
 </LinearLayout>
