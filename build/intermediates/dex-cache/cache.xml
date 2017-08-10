@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/.android/build-cache/bc13665d512fdec3054af5b0840417967f9b2846/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e34b256e1658e80a74d0b95560ef8e130855a5f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/.android/build-cache/bc13665d512fdec3054af5b0840417967f9b2846/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/classes_e34b256e1658e80a74d0b95560ef8e130855a5f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_5c4c20aeaf26dbb31ddf475264b4abef63611524.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a81c9a0d9569b174a70bd33c4cc1cab9de969cfa">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_49ab96f694e4726dfd120b5bd5e48a0907e621e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7ed992c9a8e2812f0f39768626630b78142c98bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/.android/build-cache/0d66e6bb72be6f824703c22ad0163649df0b9ba0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/classes_fb3fb81243f22e7d485e082c86d21e99e1bb0bd0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/.android/build-cache/0d66e6bb72be6f824703c22ad0163649df0b9ba0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb3fb81243f22e7d485e082c86d21e99e1bb0bd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_5c4c20aeaf26dbb31ddf475264b4abef63611524/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/.android/build-cache/71c364ef0cf3b25e11c341871e0fb018c056f712/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/classes_3f89f253ea0fb5ece7a292f219815887e89a60ae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/.android/build-cache/71c364ef0cf3b25e11c341871e0fb018c056f712/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f89f253ea0fb5ece7a292f219815887e89a60ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/.android/build-cache/7ec0de981fcc73a09186e4178a63b98c84c6f2af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/classes_0e39784db0c3e8093f8f9d2f9410bc3f9cb004a6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/.android/build-cache/1709dd36ad5251c4c32b582b679c23fa98667aea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50cf1861b4e48d2a5b93030182ccaf6203db7b0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/.android/build-cache/10824e8f56e55487c8acee529f5d609abb6a978d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e367c4006c70657e64c6445e6390ca530b4c06e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/.android/build-cache/555220c3a8b4c89192667061fa3da55dc28c2990/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9e0a2d192c8e6228cb1407876e6bbf828f7ee32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/.android/build-cache/7ec0de981fcc73a09186e4178a63b98c84c6f2af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e39784db0c3e8093f8f9d2f9410bc3f9cb004a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/.android/build-cache/ac74236aa65ef685cbc1e15a790437ec51e16ec1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dd4d095372ed4292745bca845524510cc7a5442/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/.android/build-cache/555220c3a8b4c89192667061fa3da55dc28c2990/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/classes_e9e0a2d192c8e6228cb1407876e6bbf828f7ee32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/.android/build-cache/ac74236aa65ef685cbc1e15a790437ec51e16ec1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/classes_5dd4d095372ed4292745bca845524510cc7a5442.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/.android/build-cache/c0d6b9dce1a89e9a97778976a60aadd5a70f367e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f15b5d3cd35d2d29abbc6e12001789d9360cdd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/.android/build-cache/10824e8f56e55487c8acee529f5d609abb6a978d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/classes_5e367c4006c70657e64c6445e6390ca530b4c06e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/.android/build-cache/1709dd36ad5251c4c32b582b679c23fa98667aea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/classes_50cf1861b4e48d2a5b93030182ccaf6203db7b0c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_324a772931a100018be53ea2958720fdd478cb7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/.android/build-cache/c0d6b9dce1a89e9a97778976a60aadd5a70f367e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/classes_5f15b5d3cd35d2d29abbc6e12001789d9360cdd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_324a772931a100018be53ea2958720fdd478cb7e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuqing/.android/build-cache/68e086d35ac7086ac3ad4a8877e4fb08defa2dfa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfb388ad92570f0869d91d4de7fa909768768e20/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuqing/.android/build-cache/68e086d35ac7086ac3ad4a8877e4fb08defa2dfa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/yuqing/Desktop/MyOriginal/FileEncrypt/app/build/intermediates/pre-dexed/debug/classes_bfb388ad92570f0869d91d4de7fa909768768e20.jar" />
+    </item>
+
+</items>
